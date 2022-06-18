@@ -1,0 +1,10 @@
+body{
+    background-color: orange;
+    outline-color: orange;
+    text-align: center;
+    color: white;
+}
+
+iframe{
+    vertical-align: middle;
+}
